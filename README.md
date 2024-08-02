@@ -10,3 +10,8 @@ is able to perform queries with logical conditions on node and edge labels. We c
 The networks used for tests and comparisons are downloadable through the following link:
 
 https://zenodo.org/records/10719140?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjZkYmU4MmUwLTM5ZDAtNGNiZC05YjNlLTc2ZjI4ZTE0M2EwOCIsImRhdGEiOnt9LCJyYW5kb20iOiI1YmNkMTIxZjdlOTgzOTg4YjM0NWQ0M2Y5NWIxNTc0MiJ9.BNGuYnnu8NKX8vbU_Eu9h9UB0-jljGPkoxeE4kaYfu3DNSiuuRBjAEEwKOy57RSlxFc7CzjclnFJ-znCjsRvcQ
+
+
+# Supported CYPHER query language
+
+The complete set of CYPHER's syntactic constructs used in MultiGraphMatch are listed in the PDF file "CypherQueryGrammar.pdf" of this GitHub repository.
