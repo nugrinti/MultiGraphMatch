@@ -14,4 +14,4 @@ https://zenodo.org/records/10719140?token=eyJhbGciOiJIUzUxMiJ9.eyJpZCI6IjZkYmU4M
 
 # Supported CYPHER query language
 
-The complete set of CYPHER's syntactic constructs used in MultiGraphMatch are listed in the PDF file "CypherQueryGrammar.pdf" of this GitHub repository.
+The complete set of CYPHER's syntactic constructs available in MultiGraphMatch are listed in the PDF file "CypherQueryGrammar.pdf" of this GitHub repository.
